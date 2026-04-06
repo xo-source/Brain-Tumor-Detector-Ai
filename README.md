@@ -31,7 +31,7 @@ Installation
 
 ## Clone the repository:
 
-git clone https://github.com/xo-source/brain-tumor-detector-ai.git
+git clone https://github.com/xo-source/Brain-Tumor-Detector-Ai.git
 cd brain-tumor-detector-ai
 
 ## Install dependencies:
