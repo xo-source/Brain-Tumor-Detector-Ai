@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ## Run the app:
 
-python app.py
+python AppTumor.py
 Requirements
 Python 3.8+
 torch
@@ -59,7 +59,7 @@ Note: Accuracy depends on dataset quality and evaluation method.
 ## Project Structure
 
 brain-tumor-detector-ai/
-│── app.py
+│── AppTumor.py
 │── model.pth
 │── requirements.txt
 │── README.md
