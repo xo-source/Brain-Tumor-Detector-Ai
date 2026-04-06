@@ -58,7 +58,7 @@ Note: Accuracy depends on dataset quality and evaluation method.
 
 brain-tumor-detector-ai/
 │── AppTumor.py
-│── model.pth
+│── BrainTumorModel.pth
 │── requirements.txt
 │── README.md
 
