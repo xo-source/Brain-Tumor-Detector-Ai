@@ -29,10 +29,9 @@ Show confidence levels
 Display the processed image
 Installation
 
-## Clone the repository:
+## Model Link:
 
-git clone https://github.com/xo-source/Brain-Tumor-Detector-Ai.git
-cd brain-tumor-detector-ai
+Google Drive: https://drive.google.com/file/d/1RMJT4DmSHOciQazc3RDPLrL_qfYJHO4I/view?usp=sharing
 
 ## Install dependencies:
 
