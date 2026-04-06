@@ -31,8 +31,7 @@ Installation
 
 ## Model Link:
 
-Google Drive: https://drive.google.com/file/d/1RMJT4DmSHOciQazc3RDPLrL_qfYJHO4I/view?usp=sharing
-
+Google Drive: https://drive.google.com/file/d/1Xf62oFvm58M8pIRybESOPztX8hNWmBCr/view?usp=sharing
 ## Install dependencies:
 
 pip install -r requirements.txt
